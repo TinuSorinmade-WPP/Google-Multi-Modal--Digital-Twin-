@@ -1,11 +1,10 @@
 # Real-Time Audio & Video Interaction with Google Gemini
 
-This project enables real-time interaction with the Google Gemini model using audio and video processing. It streams video from a camera or screen, captures audio input, and sends/receives messages to/from the Gemini model, providing a conversational AI interface that can be customized with your own knowledge base.
-
 ## Requirements
 
 - Python 3.12.7 or higher (this code is verified with version 3.12.7).
 - Dependencies listed in the `requirements.txt` file.
+- API key from Google AI studio
 
 ## Setup Instructions
 
