@@ -2,6 +2,7 @@
 
 - Python 3.12.7 or higher (this code is verified with version 3.12.7).
 - Dependencies listed in the `requirements.txt` file.
+- Google AI studio API key
 
 ### **Setup Guide**
 
